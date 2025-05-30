@@ -1,6 +1,6 @@
 ### Links:
-Find me on <a rel="me" href="https://social.ivor.org/@ivor">Mastodon</a><br/>
-Projects are moving/have been moved over to <a rel="me" href="https://codeberg.org/ivor">Codeberg</a><br/>
+Find me on <a rel="me" href="https://social.ivor.org/@ivor">Mastodon</a><br/><br/>
+Projects are moving/have been moved over to <a rel="me" href="https://codeberg.org/ivor">Codeberg</a><br/><br/>
 VO2Max device - <a rel="me" href="https://codeberg.org/ivor/VO2max">VO2Max</a><br/>
 TrackerIII - <a rel="me" href="https://codeberg.org/ivor/tracker3">Tracker3</a><br/>
 BLE fluid flow monitor - <a rel="me" href="https://codeberg.org/ivor/bleflow">BLEflow</a><br/>
