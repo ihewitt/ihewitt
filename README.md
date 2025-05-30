@@ -1,8 +1,13 @@
 ### Links:
 Find me on <a rel="me" href="https://social.ivor.org/@ivor">Mastodon</a><br/>
 Projects are moving/have been moved over to <a rel="me" href="https://codeberg.org/ivor">Codeberg</a><br/>
-<a rel="me" href="https://codeberg.org/ivor/VO2max">VO2Max</a><br/>
-<a rel="me" href="https://codeberg.org/ivor/tracker3">Tracker3</a><br/>
+VO2Max device - <a rel="me" href="https://codeberg.org/ivor/VO2max">VO2Max</a><br/>
+TrackerIII - <a rel="me" href="https://codeberg.org/ivor/tracker3">Tracker3</a><br/>
+BLE fluid flow monitor - <a rel="me" href="https://codeberg.org/ivor/bleflow">BLEflow</a><br/>
+Tracker web server - <a rel="me" href="https://codeberg.org/ivor/gps-server">gps-server</a><br/>
+A9G gps tracker code - <a rel="me" href="https://codeberg.org/ivor/ivrtrack">A9Gtrack</a><br/>
+RAK5010 gps tracker code - <a rel="me" href="https://codeberg.org/ivor/raktrack">RAKtrack</a><br/>
+Poolmate swim watch viewer app - <a rel="me" href="https://codeberg.org/ivor/poolviewer">poolviewer</a><br/>
 
 <!--
 **ihewitt/ihewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
