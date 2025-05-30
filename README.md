@@ -2,6 +2,7 @@
 Find me on <a rel="me" href="https://social.ivor.org/@ivor">Mastodon</a><br/>
 Projects are moving/have been moved over to <a rel="me" href="https://codeberg.org/ivor">Codeberg</a><br/>
 <a rel="me" href="https://codeberg.org/ivor/VO2max">VO2Max</a><br/>
+<a rel="me" href="https://codeberg.org/ivor/tracker3">Tracker3</a><br/>
 
 <!--
 **ihewitt/ihewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
